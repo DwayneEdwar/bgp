@@ -1,0 +1,13 @@
+[90m= [39m[34;4mApp\Models\Router[39;24m {#9489
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: [32m"[39m[32mhAP lite test[39m[32m"[39m,
+    [34mhost[39m: [32m"[39m[32m192.168.88.1[39m[32m"[39m,
+    [34mport[39m: [35m8728[39m,
+    [34musername[39m: [32m"[39m[32madmin[39m[32m"[39m,
+    [34mpassword[39m: [32m"[39m[32meyJpdiI6IkRZeGRvR0k1d1lJZHBwQmhKZGtHTmc9PSIsInZhbHVlIjoiVThTdkNDakJPeXlLSkcwVHdBa0N1QT09IiwibWFjIjoiM2E1MTcyMDRkODZkODlmNWRkNzUwOTI5MzRhNTEwMWFjNTVkZGNhMGNkODg2NjNlZTg2Zjk5NTA4NDk0NGI3OSIsInRhZyI6IiJ9[39m[32m"[39m,
+    [34mconnection_type[39m: [32m"[39m[32mapi[39m[32m"[39m,
+    [34mstatus[39m: [32m"[39m[32munknown[39m[32m"[39m,
+    [34mlast_connected_at[39m: [36mnull[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-09-30 03:27:25[39m[32m"[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-09-30 03:27:25[39m[32m"[39m,
+  }
